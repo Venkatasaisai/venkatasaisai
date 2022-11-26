@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/venkata sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venkata sai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venkata sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata sai" height="30" width="40" /></a>
+<a href="https://twitter.com/Venkata88563930?t=o8Ohdz605pfGQq9H2snrRg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="venkata sai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/venkata-sai-9a2a03249"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkata sai" height="30" width="40" /></a>
 <a href="https://instagram.com/darling_sai143_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darling_sai143_" height="30" width="40" /></a>
 </p>
 
